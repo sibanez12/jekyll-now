@@ -20,23 +20,23 @@ I am currently a final year Ph.D. student at Stanford University advised by Prof
 
 # Publications
 
-[The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency]({{ site.baseurl }}/docs/nanoPU-arxiv.pdf)
+[The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency]({{ site.baseurl }}/docs/nanoPU-arxiv.pdf)  
 **Stephen Ibanez**, Alex Mallery, Serhat Arslan, Theo Jepsen, Muhammad Shahbaz, Nick McKeown, and Changhoon Kim
 
-[The Case for a Network Fast Path to the CPU]({{ site.baseurl }}/docs/lnic.pdf)
-**Stephen Ibanez**, Muhammad Shahbaz, and Nick McKeown
+[The Case for a Network Fast Path to the CPU]({{ site.baseurl }}/docs/lnic.pdf)  
+**Stephen Ibanez**, Muhammad Shahbaz, and Nick McKeown  
 *HotNets 2019*
 
-[Event-Driven Packet Processing]({{ site.baseurl }}/docs/event-driven-pisa.pdf)
-**Stephen Ibanez**, Gianni Antichi, Gordon Brebner, and Nick McKeown
+[Event-Driven Packet Processing]({{ site.baseurl }}/docs/event-driven-pisa.pdf)  
+**Stephen Ibanez**, Gianni Antichi, Gordon Brebner, and Nick McKeown  
 *HotNets 2019*
 
-[The P4-NetFPGA workflow for line-rate packet processing]({{ site.baseurl }}/docs/p4-netfpga.pdf)
-**Stephen Ibanez**, Gordon Brebner, Nick McKeown, and Noa Zilberman
+[The P4-NetFPGA workflow for line-rate packet processing]({{ site.baseurl }}/docs/p4-netfpga.pdf)  
+**Stephen Ibanez**, Gordon Brebner, Nick McKeown, and Noa Zilberman  
 *FPGA 2019*
 
-[s-PERC: A distributed algorithm to calculate max-min fair rates without per-flow state]({{ site.baseurl }}/docs/s-PERC.pdf)
-Lavanya Jose, **Stephen Ibanez**, Mohammad Alizadeh, and Nick McKeown
+[s-PERC: A distributed algorithm to calculate max-min fair rates without per-flow state]({{ site.baseurl }}/docs/s-PERC.pdf)  
+Lavanya Jose, **Stephen Ibanez**, Mohammad Alizadeh, and Nick McKeown  
 *SIGMETRICS 2019*
 
 # Teaching Experience
