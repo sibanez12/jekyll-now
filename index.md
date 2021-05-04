@@ -37,7 +37,7 @@ Adam Wolnikowski, **Stephen Ibanez**, Jonathan Stone, Changhoon Kim, Rajit Manoh
 
 [Event-Driven Packet Processing]({{ site.baseurl }}/docs/event-driven-pisa.pdf)  
 **Stephen Ibanez**, Gianni Antichi, Gordon Brebner, and Nick McKeown  
-*HotNets 2019*
+*HotNets 2019*  
 [Open source artifact](https://github.com/NetFPGA/P4-NetFPGA-public/wiki/Workflow-Overview#sume-event-switch-architecture)
 
 [The P4-NetFPGA workflow for line-rate packet processing]({{ site.baseurl }}/docs/p4-netfpga.pdf)  
@@ -47,7 +47,7 @@ Adam Wolnikowski, **Stephen Ibanez**, Jonathan Stone, Changhoon Kim, Rajit Manoh
 
 [s-PERC: A distributed algorithm to calculate max-min fair rates without per-flow state]({{ site.baseurl }}/docs/s-PERC.pdf)  
 Lavanya Jose, **Stephen Ibanez**, Mohammad Alizadeh, and Nick McKeown  
-*SIGMETRICS 2019*
+*SIGMETRICS 2019*  
 [Open source artifact](https://github.com/lavanyaj/perc)
 
 # Teaching Experience
