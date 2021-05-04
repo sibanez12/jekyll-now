@@ -22,6 +22,11 @@ I am currently a final year Ph.D. student at Stanford University advised by Prof
 
 [The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency]({{ site.baseurl }}/docs/nanoPU-arxiv.pdf)  
 **Stephen Ibanez**, Alex Mallery, Serhat Arslan, Theo Jepsen, Muhammad Shahbaz, Nick McKeown, and Changhoon Kim
+*To appear in USENIX OSDI 21*
+
+Zerializer: Towards Zero-Copy Serialization
+Adam Wolnikowski, **Stephen Ibanez**, Jonathan Stone, Changhoon Kim, Rajit Manohar, Robert Soule
+*To appear in HotOS 2021*
 
 [The Case for a Network Fast Path to the CPU]({{ site.baseurl }}/docs/lnic.pdf)  
 **Stephen Ibanez**, Muhammad Shahbaz, and Nick McKeown  
