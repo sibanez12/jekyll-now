@@ -8,7 +8,7 @@ I recently completed my PhD at Stanford University advised by Professor [Nick Mc
 Prior to my PhD, I received my bachelors degree in Engineering from Harvey Mudd College.
 
 I am passionate about building high performance network systems by leveraging hardware/software co-design.
-I am currently working on [the nanoPU]({{ site.baseurl }}/docs/nanoPU-arxiv.pdf), a novel CPU-NIC architecture designed to provide ultra low latency and high throughput.
+I am currently working on the nanoPU, a novel CPU-NIC architecture designed to provide ultra low latency and high throughput.
 The nanoPU moves the entire network stack into line-rate hardware: programmable transport, core selection, and thread scheduling.
 It uses a novel register file network interface rather than the traditional DMA-based network interface in order to provide the lowest possible latency and most predictable performance.
 We developed an [open source](https://github.com/l-nic/chipyard/wiki), end-to-end FPGA prototype that runs on AWS F1 instances using [Firesim](https://fires.im/).
