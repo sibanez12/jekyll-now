@@ -4,7 +4,8 @@ layout: default
 
 # About Me
 
-I am currently a final year Ph.D. student at Stanford University advised by Professor [Nick McKeown](http://yuba.stanford.edu/~nickm/).
+I recently completed my PhD at Stanford University advised by Professor [Nick McKeown](http://yuba.stanford.edu/~nickm/) and am currently a postdoctoral scholar at Stanford.
+Prior to my PhD, I received my bachelors degree in Engineering from Harvey Mudd College.
 
 ## Research Interests
 
@@ -22,7 +23,9 @@ I am currently a final year Ph.D. student at Stanford University advised by Prof
 
 [The nanoPU: Redesigning the CPU-Network Interface to Minimize RPC Tail Latency]({{ site.baseurl }}/docs/nanoPU-arxiv.pdf)  
 **Stephen Ibanez**, Alex Mallery, Serhat Arslan, Theo Jepsen, Muhammad Shahbaz, Nick McKeown, and Changhoon Kim  
-*To appear in USENIX OSDI 21*
+*To appear in USENIX OSDI 21*  
+[Open source artifact](https://github.com/l-nic/chipyard/wiki)  
+[30min Talk Recording](https://www.youtube.com/watch?v=Bu_nx5gLfmY&feature=youtu.be&ab_channel=OpenNetworkingFoundation)
 
 Zerializer: Towards Zero-Copy Serialization  
 Adam Wolnikowski, **Stephen Ibanez**, Jonathan Stone, Changhoon Kim, Rajit Manohar, Robert Soule  
@@ -35,14 +38,17 @@ Adam Wolnikowski, **Stephen Ibanez**, Jonathan Stone, Changhoon Kim, Rajit Manoh
 [Event-Driven Packet Processing]({{ site.baseurl }}/docs/event-driven-pisa.pdf)  
 **Stephen Ibanez**, Gianni Antichi, Gordon Brebner, and Nick McKeown  
 *HotNets 2019*
+[Open source artifact](https://github.com/NetFPGA/P4-NetFPGA-public/wiki/Workflow-Overview#sume-event-switch-architecture)
 
 [The P4-NetFPGA workflow for line-rate packet processing]({{ site.baseurl }}/docs/p4-netfpga.pdf)  
 **Stephen Ibanez**, Gordon Brebner, Nick McKeown, and Noa Zilberman  
-*FPGA 2019*
+*FPGA 2019*  
+[Open source artifact](https://github.com/NetFPGA/P4-NetFPGA-public/wiki)
 
 [s-PERC: A distributed algorithm to calculate max-min fair rates without per-flow state]({{ site.baseurl }}/docs/s-PERC.pdf)  
 Lavanya Jose, **Stephen Ibanez**, Mohammad Alizadeh, and Nick McKeown  
 *SIGMETRICS 2019*
+[Open source artifact](https://github.com/lavanyaj/perc)
 
 # Teaching Experience
 
